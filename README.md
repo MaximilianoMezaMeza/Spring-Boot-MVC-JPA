@@ -1,5 +1,6 @@
 # Spring-Boot-MVC-JPA
 Proyecto sencillo Spring 
+
 Este proyecto realiza operaciones CRUD en una entidad usuario utilizando Spring Boot, Spring MVC, Spring JPA 
 
 Para obtener todos los usuarios disponibles en el sistema:
