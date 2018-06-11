@@ -16,3 +16,13 @@ DELETE a http://localhost:8080/usuario/{id}
 
 Para actualizar un usuario del sistema
 PUT a http://localhost:8080/usuario/{id}
+
+
+Ejemplo JSON:
+
+{
+    "nombre": "Jon",
+    "apellidos": "Snow",
+    "email": "Bastard.Jon.Snow@Targarians.Stak",
+    "password": "Misandei"
+  }
