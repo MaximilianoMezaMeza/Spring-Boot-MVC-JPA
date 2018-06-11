@@ -23,6 +23,6 @@ Ejemplo JSON:
 {
     "nombre": "Jon",
     "apellidos": "Snow",
-    "email": "Bastard.Jon.Snow@Targarians.Stak",
+    "email": "Bastard.Jon.Snow@Targarians.Stark",
     "password": "Misandei"
   }
